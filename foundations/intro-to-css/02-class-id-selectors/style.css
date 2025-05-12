@@ -1,0 +1,24 @@
+/* class selector */
+
+.oddclass {
+    background-color:#e9967a;
+    color: #000000;
+    font-family:'Verdana', 'DeJaVu Sans', sans-serif;
+}
+
+.butcooler {
+    font-size: 24px;
+}
+
+/* ID selector */
+
+#numbertwo {
+    color:#0000ff;
+    font-size: 36px;
+}
+
+#numberfour {
+    background-color: #adff2f;
+    font-weight: bold;
+    font-size: 24px;
+}
